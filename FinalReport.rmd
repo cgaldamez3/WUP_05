@@ -50,6 +50,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
+In the row percent table, the people who took the drug 58% of them got aids and those who took the placebo got 41% aids. This drug is not working correctly if anything this is working backwards.
 
 ## Inferential Results
 
