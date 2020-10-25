@@ -62,6 +62,8 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
+Of those who got aids 210 took the drug and 147 took the placebo, if this was conforming to the null hypothesis 172 would have taken the drug and 184 would have taken the placebo and then a p value of 1 and 10000 tells that the null hypothesis is false. The confidence interval tells me that overall the chances of women getting aids when taking the drug is 1 1/2 times more likely than woman who have taken the placebo.
+
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
